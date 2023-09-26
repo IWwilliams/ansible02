@@ -1,0 +1,2 @@
+# ansible02
+AnsibleTraining
